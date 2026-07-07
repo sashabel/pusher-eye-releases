@@ -7,8 +7,8 @@
   "git_commit": "UNCONTROLLED",
   "note": "Development artifact only; not a signed production release manifest.",
   "release_folder": "docs/climate-eye/0.4.0-dev",
-  "sha256": "bb3c7620ce8eb2b1007fb2c74460655ce0345ecc04d8a20de26183ca394228da",
-  "size_bytes": 1100032,
+  "sha256": "ef0639bbf905abdfc925ea4c7075ab57f5da61f3983676c3408cc1ef2f08e6de",
+  "size_bytes": 1104080,
   "status": "non-gxp-development",
   "version": "0.4.0-dev"
 }
