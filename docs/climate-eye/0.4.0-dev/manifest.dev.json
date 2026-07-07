@@ -1,0 +1,14 @@
+{
+  "binary": "climateEye.bin",
+  "build_class": "non-gxp-development",
+  "build_id": "UNCONTROLLED",
+  "elf": "climateEye.elf",
+  "environment": "seeed_xiao_esp32c3",
+  "git_commit": "UNCONTROLLED",
+  "note": "Development artifact only; not a signed production release manifest.",
+  "release_folder": "docs/climate-eye/0.4.0-dev",
+  "sha256": "bb3c7620ce8eb2b1007fb2c74460655ce0345ecc04d8a20de26183ca394228da",
+  "size_bytes": 1100032,
+  "status": "non-gxp-development",
+  "version": "0.4.0-dev"
+}
